@@ -15,7 +15,3 @@ $ npm run check
 # format code (using prettier)
 $ npm run fmt
 ```
-
-### Questions
-
-All questions can be found here: [Link](https://www.techinterviewhandbook.org/grind75/)
