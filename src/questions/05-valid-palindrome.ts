@@ -6,8 +6,8 @@ export function isAlphanumeric(input: string, index: number): boolean {
     return (
         (code > 47 && code < 58) || // 0-9
         (code > 64 && code < 91) || // A-Z
-        (code > 96 && code < 123)
-    ) // a-z
+        (code > 96 && code < 123) // a-z
+    )
 }
 
 export function isPalindrome(input: string): boolean {

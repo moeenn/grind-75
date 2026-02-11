@@ -10,7 +10,7 @@
 
 ## Search
 
-- [ ] Binary search
+- [x] Binary search
 - [ ] Depth-first search (DFS)
 - [ ] Breadth-first search (BFS)
 
