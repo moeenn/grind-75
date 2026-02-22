@@ -24,11 +24,11 @@ test("binary tree", () => {
     three.setRight(new TreeNode(7))
 
     const preorder = BinaryTree.traversePreOrder(tree.root).toArray()
-    assert.deepEqual(preorder, [1,2,4,5,3,6,7])
+    assert.deepEqual(preorder, [1, 2, 4, 5, 3, 6, 7])
 
     const inorder = BinaryTree.traverseInOrder(tree.root).toArray()
-    assert.deepEqual(inorder, [4,2,5,1,6,3,7])
+    assert.deepEqual(inorder, [4, 2, 5, 1, 6, 3, 7])
 
     const postorder = BinaryTree.traversePostOrder(tree.root).toArray()
-    assert.deepEqual(postorder, [4,5,2,6,7,3,1])
+    assert.deepEqual(postorder, [4, 5, 2, 6, 7, 3, 1])
 })

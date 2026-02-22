@@ -9,4 +9,7 @@ All questions can be found here: [Link](https://www.techinterviewhandbook.org/gr
 - [x] 03: Merge Two Sorted Lists: [Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 - [x] 04: Best time to buy stocks: [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] 05: Valid palindrome: [Link](https://leetcode.com/problems/valid-palindrome/description/)
-- [ ] 06: Invert binary tree: [Link](https://leetcode.com/problems/invert-binary-tree/)
+- [x] 06: Invert binary tree: [Link](https://leetcode.com/problems/invert-binary-tree/)
+- [x] 07: Valid anagram: [Link](https://leetcode.com/problems/valid-anagram/description/)
+- [x] 08: Binary search [Link](https://leetcode.com/problems/binary-search/description/)
+- [ ] 09: Flood fill [Link](https://leetcode.com/problems/flood-fill/description/)
