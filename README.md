@@ -37,3 +37,28 @@
 - [ ] Recursion: Factorials with tail-call optimization
 - [ ] Recursion: Questions [Link](https://www.techiedelight.com/recursion-practice-problems-with-solutions)
 - [ ] Greedy algorithm
+
+## Design Patterns
+
+- [ ] Factory Method
+- [ ] Abstract Factory
+- [ ] Builder Pattern
+- [ ] Prototype Pattern
+- [ ] Singleton Pattern
+- [ ] Adapter Pattern
+- [ ] Bridge Pattern
+- [ ] Composite Pattern
+- [ ] Decorator Pattern
+- [ ] Facade Pattern
+- [ ] Flyweight Pattern
+- [ ] Proxy Pattern
+- [ ] Strategy Pattern
+- [ ] Observer Pattern
+- [ ] Command Pattern
+- [ ] Chain of Responsibility Pattern
+- [ ] Iterator Pattern
+- [ ] State Pattern
+- [ ] Template Method Pattern
+- [ ] Visitor Pattern
+- [ ] Mediator Pattern
+- [ ] Memento Pattern
