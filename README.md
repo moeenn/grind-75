@@ -9,7 +9,7 @@
 ## Data structures
 
 - [ ] Stack: Fix-sized
-- [ ] Stack: Dynamic-sized
+- [x] Stack: Dynamic-sized
 - [ ] Queue: Dynamic-sized
 - [ ] Queue: Priority queue (using heap)
 - [ ] Vector: Dynamic-sized
