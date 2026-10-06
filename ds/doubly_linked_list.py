@@ -7,14 +7,17 @@ from typing import Self
 class Node[T]:
     data: T
     next: Self | None = None
+    prev: Self | None = None
 
 
-class LinkedList[T]:
+class DoublyLinkedList[T]:
     head: Node[T] | None
+    tail: Node[T] | None
     size: int
 
     def __init__(self) -> None:
         self.head = None
+        self.tail = None
         self.size = 0
 
     def __len__(self) -> int:
@@ -24,6 +27,7 @@ class LinkedList[T]:
         new_node = Node(data)
         if self.head is None:
             self.head = new_node
+            self.tail = new_node
             self.size += 1
             return
 
@@ -31,7 +35,9 @@ class LinkedList[T]:
         while current.next is not None:
             current = current.next
 
+        new_node.prev = current
         current.next = new_node
+        self.tail = new_node
         self.size += 1
 
     def prepend(self, data: T) -> None:
@@ -42,6 +48,7 @@ class LinkedList[T]:
             return
 
         tmp = self.head
+        tmp.prev = new_node
         new_node.next = tmp
         self.head = new_node
         self.size += 1
@@ -54,12 +61,8 @@ class LinkedList[T]:
 
     def reverse(self) -> None:
         current = self.head
-        prev = None
-
         while current is not None:
-            next = current.next
-            current.next = prev
-            prev = current
-            current = next
+            current.next, current.prev = current.prev, current.next
+            current = current.prev
 
-        self.head = prev
+        self.head, self.tail = self.tail, self.head

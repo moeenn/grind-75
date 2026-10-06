@@ -14,7 +14,7 @@
 - [ ] Queue: Priority queue (using heap)
 - [ ] Vector: Dynamic-sized
 - [x] LinkedList: Singly-linked
-- [ ] LinkedList: Doubly-linked
+- [x] LinkedList: Doubly-linked
 - [ ] Hashmap
 - [ ] Tree: Binary Tree
 - [ ] Tree: Binary Search Tree
