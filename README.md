@@ -4,7 +4,7 @@
 
 - [x] Two Sum: [Link](https://leetcode.com/problems/two-sum/)
 - [x] Valid Parentheses: [Link](https://leetcode.com/problems/valid-parentheses/description/)
-- [ ] Merge Two Sorted Lists: [Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [x] Merge Two Sorted Lists: [Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
 ## Data structures
 
