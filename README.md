@@ -2,9 +2,12 @@
 
 ## Questions
 
-- [x] Two Sum: [Link](https://leetcode.com/problems/two-sum/)
-- [x] Valid Parentheses: [Link](https://leetcode.com/problems/valid-parentheses/description/)
-- [x] Merge Two Sorted Lists: [Link](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [x] Two Sum: [Link](https://leetcode.com/problems/two-sum)
+- [x] Valid Parentheses: [Link](https://leetcode.com/problems/valid-parentheses)
+- [x] Merge Two Sorted Lists: [Link](https://leetcode.com/problems/merge-two-sorted-lists)
+- [x] Best Time to Buy and Sell Stock: [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [x] Valid Palindrome: [Link](https://leetcode.com/problems/valid-palindrome)
+- [ ] Invert Binary Tree: [Link](https://leetcode.com/problems/invert-binary-tree)
 
 ## Data structures
 
@@ -33,8 +36,8 @@
 - [ ] Search: Binary search
 - [ ] Search: Depth-first search
 - [ ] Search: Breadth-first search
-- [ ] Recursion: Loop using recursion
-- [ ] Recursion: Factorials with tail-call optimization
+- [x] Recursion: Loop using recursion
+- [x] Recursion: Factorials with tail-call optimization
 - [ ] Recursion: Questions [Link](https://www.techiedelight.com/recursion-practice-problems-with-solutions)
 - [ ] Greedy algorithm
 
