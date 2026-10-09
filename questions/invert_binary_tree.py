@@ -1,4 +1,4 @@
-from ds.binary_tree import BinaryTree, Node
+from data_structures.binary_tree import BinaryTree, Node
 
 
 def invert_binary_tree[T](tree: BinaryTree[T]) -> None:

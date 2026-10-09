@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from ds.binary_tree import BinaryTree, Node, TraversalMethod
+from data_structures.binary_tree import BinaryTree, Node, TraversalMethod
 
 from .invert_binary_tree import invert_binary_tree
 

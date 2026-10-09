@@ -1,4 +1,4 @@
-from ds.linked_list import LinkedList
+from data_structures.linked_list import LinkedList
 
 
 def merge_sorted_linked_lists(

@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from ds.linked_list import LinkedList
+from data_structures.linked_list import LinkedList
 
 from .merge_two_sorted_lists import (
     merge_sorted_linked_lists,
