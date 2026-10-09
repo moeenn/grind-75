@@ -7,7 +7,10 @@
 - [x] Merge Two Sorted Lists: [Link](https://leetcode.com/problems/merge-two-sorted-lists)
 - [x] Best Time to Buy and Sell Stock: [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 - [x] Valid Palindrome: [Link](https://leetcode.com/problems/valid-palindrome)
-- [ ] Invert Binary Tree: [Link](https://leetcode.com/problems/invert-binary-tree)
+- [x] Invert Binary Tree: [Link](https://leetcode.com/problems/invert-binary-tree)
+- [x] Valid Anagram: [Link](https://leetcode.com/problems/valid-anagram)
+- [x] Binary Search: [Link](https://leetcode.com/problems/binary-search)
+- [ ] Flood Fill: [Link](https://leetcode.com/problems/flood-fill)
 
 ## Data structures
 
@@ -19,7 +22,7 @@
 - [x] LinkedList: Singly-linked
 - [x] LinkedList: Doubly-linked
 - [ ] Hashmap
-- [ ] Tree: Binary Tree
+- [x] Tree: Binary Tree
 - [ ] Tree: Binary Search Tree
 - [ ] Tree: AVL Tree
 - [ ] Tree: B-Tree
@@ -33,7 +36,7 @@
 - [ ] Sorting: Insertion sort
 - [ ] Sorting: Merge sort
 - [ ] Sorting: Quick sort
-- [ ] Search: Binary search
+- [x] Search: Binary search
 - [ ] Search: Depth-first search
 - [ ] Search: Breadth-first search
 - [x] Recursion: Loop using recursion
