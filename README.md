@@ -24,7 +24,7 @@
 - [x] LinkedList: Doubly-linked
 - [ ] Hashmap
 - [x] Tree: Binary Tree
-- [ ] Tree: Binary Search Tree
+- [x] Tree: Binary Search Tree
 - [ ] Tree: AVL Tree
 - [ ] Tree: B-Tree
 - [ ] Heap
