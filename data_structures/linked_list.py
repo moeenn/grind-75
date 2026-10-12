@@ -3,7 +3,7 @@ from dataclasses import dataclass
 from typing import Self
 
 
-@dataclass
+@dataclass(eq=True)
 class Node[T]:
     data: T
     next: Self | None = None

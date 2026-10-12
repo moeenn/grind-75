@@ -22,7 +22,7 @@ class TraversalMethod(Enum):
 
 
 class BinaryTree[T]:
-    root: Node[T] | None
+    root: Node[T] | None = None
 
     def traverse(self, method: TraversalMethod) -> Generator[T]:
         def loop(node: Node[T] | None) -> Generator[T]:
@@ -46,3 +46,15 @@ class BinaryTree[T]:
                     yield node.value
 
         yield from loop(self.root)
+
+    # max number of levels in tree.
+    def height(self) -> int:
+        return self.__depth(self.root, 0)
+
+    def __depth(self, node: Node[T] | None, height: int) -> int:
+        if node is None:
+            return -1
+
+        left_h = self.__depth(node.left, height + 1)
+        right_h = self.__depth(node.right, height + 1)
+        return max(height, left_h, right_h)

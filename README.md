@@ -12,6 +12,9 @@
 - [x] Binary Search: [Link](https://leetcode.com/problems/binary-search)
 - [x] Flood Fill: [Link](https://leetcode.com/problems/flood-fill)
 - [ ] Lowest Common Ancestor of a Binary Search Tree: [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+- [ ] Balanced Binary Tree: [Link](https://leetcode.com/problems/balanced-binary-tree)
+- [x] Linked List Cycle: [Link](https://leetcode.com/problems/linked-list-cycle)
+- [x] Implement Queue using Stacks: [Link](https://leetcode.com/problems/implement-queue-using-stacks)
 
 ## Data structures
 
@@ -19,7 +22,7 @@
 - [x] Stack: Dynamic-sized
 - [ ] Queue: Dynamic-sized
 - [ ] Queue: Priority queue (using heap)
-- [ ] Vector: Dynamic-sized
+- [ ] Vector
 - [x] LinkedList: Singly-linked
 - [x] LinkedList: Doubly-linked
 - [ ] Hashmap
