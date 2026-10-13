@@ -19,7 +19,9 @@
 - [x] Ransom Note: [Link](https://leetcode.com/problems/ransom-note)
 - [x] Climbing Stairs: [Link](https://leetcode.com/problems/climbing-stairs)
 - [x] Longest Palindrome: [Link](https://leetcode.com/problems/longest-palindrome)
-- [ ] Reverse Linked List: [Link](https://leetcode.com/problems/reverse-linked-list)
+- [x] Reverse Linked List: [Link](https://leetcode.com/problems/reverse-linked-list)
+- [x] Majority Element: [Link](https://leetcode.com/problems/majority-element/)
+- [ ] Add Binary: [Link](https://leetcode.com/problems/add-binary)
 
 ## Data structures
 
