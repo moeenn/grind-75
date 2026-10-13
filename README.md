@@ -15,6 +15,9 @@
 - [ ] Balanced Binary Tree: [Link](https://leetcode.com/problems/balanced-binary-tree)
 - [x] Linked List Cycle: [Link](https://leetcode.com/problems/linked-list-cycle)
 - [x] Implement Queue using Stacks: [Link](https://leetcode.com/problems/implement-queue-using-stacks)
+- [x] First Bad Version: [Link](https://leetcode.com/problems/first-bad-version)
+- [x] Ransom Note: [Link](https://leetcode.com/problems/ransom-note)
+- [ ] Climbing Stairs: [Link](https://leetcode.com/problems/climbing-stairs)
 
 ## Data structures
 
