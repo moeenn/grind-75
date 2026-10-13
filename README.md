@@ -17,7 +17,9 @@
 - [x] Implement Queue using Stacks: [Link](https://leetcode.com/problems/implement-queue-using-stacks)
 - [x] First Bad Version: [Link](https://leetcode.com/problems/first-bad-version)
 - [x] Ransom Note: [Link](https://leetcode.com/problems/ransom-note)
-- [ ] Climbing Stairs: [Link](https://leetcode.com/problems/climbing-stairs)
+- [x] Climbing Stairs: [Link](https://leetcode.com/problems/climbing-stairs)
+- [x] Longest Palindrome: [Link](https://leetcode.com/problems/longest-palindrome)
+- [ ] Reverse Linked List: [Link](https://leetcode.com/problems/reverse-linked-list)
 
 ## Data structures
 
